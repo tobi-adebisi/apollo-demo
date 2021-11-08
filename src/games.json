@@ -1,0 +1,443 @@
+[
+    {
+        "whitePlayerName": "Carlsen, M",
+        "blackPlayerName": "Dubov, D", 
+        "date": "Dec 29, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "So, W", 
+        "date": "Dec 29, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Nakamura, H",
+        "blackPlayerName": "Aronian, L", 
+        "date": "Dec 29, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Nepomniachtchi, I",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 29, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Dubov, D",
+        "blackPlayerName": "Carlsen, M", 
+        "date": "Dec 29, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "So, W",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 29, 2020",
+        "result": "0-1",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Aronian, L",
+        "blackPlayerName": "Nakamura, H", 
+        "date": "Dec 29, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Radjabov, T",
+        "blackPlayerName": "Nepomniachtchi, I", 
+        "date": "Dec 29, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Carlsen, M",
+        "blackPlayerName": "Dubov, D", 
+        "date": "Dec 29, 2020",
+        "result": "0-1",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "So, W", 
+        "date": "Dec 29, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Nakamura, H",
+        "blackPlayerName": "Aronian, L", 
+        "date": "Dec 29, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Nepomniachtchi, I",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 29, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Dubov, D",
+        "blackPlayerName": "Carlsen, M", 
+        "date": "Dec 29, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "So, W",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 29, 2020",
+        "result": "0-1",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Aronian, L",
+        "blackPlayerName": "Nakamura, H", 
+        "date": "Dec 29, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    }, 
+    {
+        "whitePlayerName": "Radjabov, T",
+        "blackPlayerName": "Nepomniachtchi, I", 
+        "date": "Dec 29, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Dubov, D",
+        "blackPlayerName": "Carlsen, M", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "So, W",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Aronian, L",
+        "blackPlayerName": "Nakamura, H", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Radjabov, T",
+        "blackPlayerName": "Nepomniachtchi, I", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Carlsen, M",
+        "blackPlayerName": "Dubov, D", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "So, W", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Nakamura, H",
+        "blackPlayerName": "Aronian, L", 
+        "date": "Dec 30, 2020",
+        "result": "0-1 ",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Nepomniachtchi, I",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Dubov, D",
+        "blackPlayerName": "Carlsen, M", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "So, W",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "½-½ ",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Radjabov, T",
+        "blackPlayerName": "Nepomniachtchi, I", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "So, W", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Nepomniachtchi, I",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "So, W", 
+        "date": "Dec 30, 2020",
+        "result": "1-0 ",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Radjabov, T",
+        "blackPlayerName": "Nepomniachtchi, I", 
+        "date": "Dec 30, 2020",
+        "result": "0-1 ",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "So, W",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Nepomniachtchi, I",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 30, 2020",
+        "result": "0-1",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "So, W",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Nepomniachtchi, I",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Radjabov, T",
+        "blackPlayerName": "Dubov, D", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "Aronian, L", 
+        "date": "Dec 30, 2020",
+        "result": "0-1",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Dubov, D",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Aronian, L",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Radjabov, T",
+        "blackPlayerName": "Dubov, D", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "Aronian, L", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Dubov, D",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 30, 2020",
+        "result": "0-1",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Aronian, L",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Dubov, D",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 30, 2020",
+        "result": "0-1",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Aronian, L",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Radjabov, T",
+        "blackPlayerName": "Dubov, D", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "Aronian, L", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Aronian, L",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Radjabov, T",
+        "blackPlayerName": "Aronian, L", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "Dubov, D", 
+        "date": "Dec 30, 2020",
+        "result": "0-1",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Aronian, L",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Dubov, D",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Radjabov, T",
+        "blackPlayerName": "Aronian, L", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "Dubov, D", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Aronian, L",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 30, 2020",
+        "result": "0-1",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Dubov, D",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "0-1",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Aronian, L",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Dubov, D",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "0-1",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Radjabov, T",
+        "blackPlayerName": "Aronian, L", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "Dubov, D", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Aronian, L",
+        "blackPlayerName": "Radjabov, T", 
+        "date": "Dec 30, 2020",
+        "result": "½-½",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Dubov, D",
+        "blackPlayerName": "Vachier Lagrave, M", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    },
+    {
+        "whitePlayerName": "Vachier Lagrave, M",
+        "blackPlayerName": "Dubov, D", 
+        "date": "Dec 30, 2020",
+        "result": "1-0",
+        "tournament": "Airthings Masters KO 2020"
+    }
+]

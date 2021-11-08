@@ -1,0 +1,82 @@
+[
+ {
+    "name": "Carlsen Magnus",
+    "yearBorn": "1990",
+    "country": "Norway",
+    "title": "Grandmaster",
+    "rating": 2855,
+    "biography": "World Champion 2013 till the present, after defending his title against Anand in 2014, Karjakin in 2016 and Caruana in 2018. World Rapid Champion 2014, 2015 & 2019; World Blitz Champion 2009, 2014, 2017, 2018 and 2019."
+ },
+ {
+    "name": "Ding Liren",
+    "yearBorn": "1992",
+    "country": "China",
+    "title": "Grandmaster",
+    "rating": 2799,
+    "biography": "Champion of China 2009, 2011 & 2012."
+ },
+ {
+    "name": "Caruana, Fabiano",
+    "yearBorn": "1992",
+    "country": "USA",
+    "title": "Grandmaster",
+    "rating": 2791,
+    "biography": "FM in 2002, IM in 2005, GM in 2007. Youngest ever grandmaster from the United States (until Ray Robson beat his record by four days) as well as Italy due to dual citizenship. Challenged Magnus Carlsen for the world championship in London in November 2018, losing in the rapid tiebreak by 3-0 after drawing the classical portion of the match 6-6."
+ },
+ {
+    "name": "Nepomniachtchi, Ian",
+    "yearBorn": "1990",
+    "country": "Russia",
+    "title": "Grandmaster",
+    "rating": 2782,
+    "biography": "International Master since 2004; Grandmaster since 2007."
+ },
+ {
+    "name": "Firouzja, Alireza",
+    "yearBorn": "2003",
+    "country": "France",
+    "title": "Grandmaster",
+    "rating": 2770,
+    "biography": "International Grandmaster (2018) at the age of 14 years 8 months and 2 days; Asian U12 Champion (2015); Iranian Champion (2016 - youngest Iranian Champion ever, 2019); Asian Blitz Champion (2018)."
+ },
+ {
+    "name": "Giri, Anish",
+    "yearBorn": "1994",
+    "country": "Netherlands",
+    "title": "Grandmaster",
+    "rating": 2774,
+    "biography": "Grandmaster since 2009, acquiring the title at the age of 14 years 7 months 2 days."
+ },
+ {
+    "name": "Grischuk, Alexander",
+    "yearBorn": "1983",
+    "country": "Russia",
+    "title": "Grandmaster",
+    "rating": 2773,
+    "biography": "Straight OG"
+ },
+ {
+    "name": "So, Wesley",
+    "yearBorn": "1993",
+    "country": "USA",
+    "title": "Grandmaster",
+    "rating": 2772,
+    "biography": "Born in the Philippines, moved to USA in 2013, changed to US Federation in 2014."
+ },
+ {
+    "name": "Vachier-Lagrave, Maxime",
+    "yearBorn": "1990",
+    "country": "France",
+    "title": "Grandmaster",
+    "rating": 2766,
+    "biography": "Grandmaster in 2005, aged 14 years 4 months."
+ },
+ {
+    "name": "Aronian, Levon",
+    "yearBorn": "1982",
+    "country": "Armenia",
+    "title": "Grandmaster",
+    "rating": 2782,
+    "biography": "Aronian has long been Armenia's strongest player."
+ }
+]
