@@ -1,13 +1,6 @@
-const { gql } = require('apollo-server');
 
-const typeDefs = gql`
-  type Query {
-    "Query to get players"
-    players: [Player!]!
-  }
-
-  "A chess player"
-  type Player {
+"A chess player."
+type Player {
     "The name of the chess player"
     name: String!
     "The year the player was born"
@@ -20,7 +13,7 @@ const typeDefs = gql`
     rating: Int
     "A short biography of the player"
     biography: String
-  }
+}
 
   "A chess game between two chess players"
   type Game {
@@ -32,11 +25,10 @@ const typeDefs = gql`
     date: String!
     "The result of the chess game"
     result: String! 
-  }
+}
 
-
-  "A chess tournament, played by chess players"
-  type Tournament {
+"A chess tournament, played by chess players"
+type Tournament {
     "The name of the chess tournament"
     name: String!
     "The number of players in the chess tournament"
@@ -45,9 +37,11 @@ const typeDefs = gql`
     numberOfGames: Int!
     "The winner of the chesss tournament"
     winnerName: String!
-    "The players in the chess tournament
+    "The players in the chess tournament"
     players: [Player!]!
-  }
-`;
+}
 
-module.exports = typeDefs;
+type Query {
+    "Get a list of players"
+    players: [Player!]!
+}
