@@ -1,0 +1,17 @@
+
+  "A chess game between two chess players"
+  type Game {
+    "The chess player with the white pieces"
+    whitePlayerName: String!
+    "The chess player with the black pieces"
+    blackPlayerName: String! 
+    "The date the chess game was played"
+    date: String!
+    "The result of the chess game"
+    result: String! 
+}
+
+type Query {
+    "Get a list of games"
+    games: [Game!]!
+}

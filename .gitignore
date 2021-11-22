@@ -1,0 +1,12 @@
+*/app.yaml
+*/.env
+*/lib
+*/bin
+*/pyvenv.cfg
+.vscode
+*/package-lock.json
+*/node_modules
+.DS_Store
+*.ca
+*.pem
+*.key

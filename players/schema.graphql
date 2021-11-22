@@ -1,0 +1,21 @@
+
+"A chess player."
+type Player {
+    "The name of the chess player"
+    name: String!
+    "The year the player was born"
+    yearBorn: String!
+    "The country the player represents"
+    country: String!
+    "The chess title of the player"
+    title: String! 
+    "The rating of the player"
+    rating: Int
+    "A short biography of the player"
+    biography: String
+}
+
+type Query {
+    "Get a list of players"
+    players: [Player!]!
+}

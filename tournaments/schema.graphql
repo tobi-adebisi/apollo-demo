@@ -1,0 +1,19 @@
+
+"A chess tournament, played by chess players"
+type Tournament {
+    "The name of the chess tournament"
+    name: String!
+    "The number of players in the chess tournament"
+    numberOfPlayers: Int!
+    "The number of games in the chess tournament"
+    numberOfGames: Int!
+    "The winner of the chesss tournament"
+    winnerName: String!
+    "The players in the chess tournament"
+    players: [String!]!
+}
+
+type Query {
+    "Get a list of tournaments"
+    tournaments: [Tournament!]!
+}
