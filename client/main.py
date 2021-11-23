@@ -13,7 +13,7 @@ versions = ['2.0', '2.1', '2.2']
 
 # Select your transport with a defined url endpoint
 transport = RequestsHTTPTransport(
-    url="",
+    url="https://adebisi-presales-demo.uc.r.appspot.com/",
     headers={
         'apollographql-client-name': random.choice(client_name),
         'apollographql-client-version': random.choice(versions)
