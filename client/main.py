@@ -27,7 +27,7 @@ client_types = []
 queries = [
 gql("query getPlayers { players { name, title, yearBorn, rating }}"),
 gql("query getTournamentName { tournaments { name }}"),
-gql("query getAwardDetails { awards { awardName, title }}"),
+gql("query getTournamentDetails { tournaments { name, numberOfPlayers, numberOfGames, winnerName }}"),
 gql("query getGames { games { whitePlayerName, blackPlayerName, date, result }}"),
 gql("query getTournaments { tournaments { name, numberOfPlayers, winnerName }}"),
 gql("query getPlayerDetail { players { name, title, yearBorn, rating, biography }}"),
