@@ -7,6 +7,8 @@ client_name = [
     "iOS",
     "web",
     "Android",
+    "Quest VR",
+    "Apple TV"
 ]
 
 versions = ['2.0', '2.1', '2.2']
@@ -28,10 +30,11 @@ gql("query getPlayers { players { name, title, rating }}"),
 gql("query getPlayerDetail { players { name, title, rating, yearBorn, biography }}"),
 gql("query getTournamentName { tournaments { name }}"),
 gql("query getTournamentDetails { tournaments { name, numberOfPlayers, numberOfGames, winnerName }}"),
-gql("query getGames { games { whitePlayerName, blackPlayerName, date, result }}"),
 gql("query getTournaments { tournaments { name, numberOfPlayers, winnerName }}"),
 gql("query getHomePageDetail { players { name, title, rating }, games { result }, tournaments { name, winnerName }}"),
 ]
+
+#gql("query getGames { games { whitePlayerName, blackPlayerName, date, result }}"),
 
 for i in range(random.randint(50,100)):
     # Provide a GraphQL query
