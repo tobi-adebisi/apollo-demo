@@ -4,108 +4,108 @@
         "name": "Airthings Masters KO 2020",
         "numberOfPlayers": 8,
         "numberOfGames": 63,
-        "winnerName": "Radjabov, Teimour",
+        "winnerName": "Radjabov Teimour",
         "players": [
-            "Radjabov, Teimour",
-            "Vachier Lagrave, Maxime",
-            "Aronian, Levon",
-            "Dubov, Daniil",
-            "Nepomniachtchi, Ian",
-            "So, Wesley",
-            "Carlsen, Magnus",
-            "Nakamura, Hikaru"
+            "Radjabov Teimour",
+            "Vachier Lagrave Maxime",
+            "Aronian Levon",
+            "Dubov Daniil",
+            "Nepomniachtchi Ian",
+            "So Wesley",
+            "Carlsen Magnus",
+            "Nakamura Hikaru"
         ]
     },
     {
         "name": "8th Norway Chess 2020",
         "numberOfPlayers": 6,
         "numberOfGames": 30,
-        "winnerName": "Carlsen, Magnus",
+        "winnerName": "Carlsen Magnus",
         "players": [
-            "Carlsen, Magnus",
- 		    "Aronian, Levon",
- 		    "Firouzja, Alireza",
- 		    "Caruana, Fabiano",
- 		    "Duda, Jan Krzysztof",
- 		    "Tari, Aryan"
+            "Carlsen Magnus",
+ 		    "Aronian Levon",
+ 		    "Firouzja Alireza",
+ 		    "Caruana Fabiano",
+ 		    "Duda Jan Krzysztof",
+ 		    "Tari Aryan"
         ]
     },
     {
         "name": "9th Norway Chess",
         "numberOfPlayers": 6,
         "numberOfGames": 30,
-        "winnerName": "Carlsen, Magnus",
+        "winnerName": "Carlsen Magnus",
         "players": [
-            "Carlsen, Magnus",
- 		    "Firouzja, Alireza",
- 		    "Rapport, Richard",
- 		    "Nepomniachtchi, Ian",
- 		    "Karjakin, Sergey",
- 		    "Tari, Aryan"
+            "Carlsen Magnus",
+ 		    "Firouzja Alireza",
+ 		    "Rapport Richard",
+ 		    "Nepomniachtchi Ian",
+ 		    "Karjakin Sergey",
+ 		    "Tari Aryan"
         ]
     },
     {
         "name": "Goldmoney Asian Rapid KO",
         "numberOfPlayers": 8,
         "numberOfGames": 68,
-        "winnerName": "Aronian, Levon",
+        "winnerName": "Aronian Levon",
         "players": [
-            "Aronian, Levon",
- 		    "Ding, Liren",
- 		    "Carlsen, Magnus",
- 		    "Artemiev, Vladislav",
- 		    "So, Wesley",
+            "Aronian Levon",
+ 		    "Ding Liren",
+ 		    "Carlsen Magnus",
+ 		    "Artemiev Vladislav",
+ 		    "So Wesley",
  		    "Erigaisi Arjun",
- 		    "Duda, Jan Krzysztof",
- 		    "Giri, Anish"
+ 		    "Duda Jan Krzysztof",
+ 		    "Giri Anish"
         ]
     },
     {
         "name": "FTX Crypto Cup KO 2021",
         "numberOfPlayers": 8,
         "numberOfGames": 69,
-        "winnerName": "Carlsen, Magnus",
+        "winnerName": "Carlsen Magnus",
         "players": [
-            "Carlsen, Magnus",
-            "So, Wesley",
-            "Nepomniachtchi, Ian",
-            "Radjabov, Teimour",
-            "Caruana, Fabiano",
-            "Nakamura, Hikaru",
-            "Giri, Anish",
-            "Vachier Lagrave, Maxime"
+            "Carlsen Magnus",
+            "So Wesley",
+            "Nepomniachtchi Ian",
+            "Radjabov Teimour",
+            "Caruana Fabiano",
+            "Nakamura Hikaru",
+            "Giri Anish",
+            "Vachier Lagrave Maxime"
         ]
     },
     {
         "name": "NIC Classic KO 2021",
         "numberOfPlayers": 8,
         "numberOfGames": 62,
-        "winnerName": "Mamedyarov, Shakhriyar",
+        "winnerName": "Mamedyarov Shakhriyar",
         "players": [
-            "Mamedyarov, Shakhriyar",
- 		    "Carlsen, Magnus",
- 		    "Nakamura, Hikaru",
- 		    "Aronian, Levon",
- 		    "Radjabov, Teimour",
- 		    "Le, Quang Liem",
- 		    "So, Wesley",
- 		    "Firouzja, Alireza"
+            "Mamedyarov Shakhriyar",
+ 		    "Carlsen Magnus",
+ 		    "Nakamura Hikaru",
+ 		    "Aronian Levon",
+ 		    "Radjabov Teimour",
+ 		    "Le Quang Liem",
+ 		    "So Wesley",
+ 		    "Firouzja Alireza"
         ]
     },
     {
         "name": "Magnus Carlsen Inv KO",
         "numberOfPlayers": 8,
         "numberOfGames": 62,
-        "winnerName": "Giri, Anish",
+        "winnerName": "Giri Anish",
         "players": [
-            "Giri, Anish",
-            "Carlsen, Magnus",
-            "Nepomniachtchi, Ian",
-            "So, Wesley",
-            "Vachier Lagrave, Maxime",
-            "Nakamura, Hikaru",
-            "Aronian, Levon",
-            "Firouzja, Alireza"
+            "Giri Anish",
+            "Carlsen Magnus",
+            "Nepomniachtchi Ian",
+            "So Wesley",
+            "Vachier Lagrave Maxime",
+            "Nakamura Hikaru",
+            "Aronian Levon",
+            "Firouzja Alireza"
         ]
     },
     {
@@ -114,20 +114,20 @@
         "numberOfGames": 91,
         "winnerName": "Van Foreest, Jorden",
         "players": [
-            "Giri, Anish",
-            "Van Foreest, Jorden",
-            "Caruana, Fabiano",
-            "Firouzja, Alireza",
-            "Esipenko, Andrey",
-            "Carlsen, Magnus",
-            "Harikrishna, Pentala",
-            "Grandelius, Nils",
-            "Tari, Aryan",
-            "Duda, Jan Krzysztof",
-            "Vachier Lagrave, Maxime",
-            "Wojtaszek, Radoslaw",
-            "Anton Guijarro, David",
-            "Donchenko, Alexander"
+            "Giri Anish",
+            "Van Foreest Jorden",
+            "Caruana Fabiano",
+            "Firouzja Alireza",
+            "Esipenko Andrey",
+            "Carlsen Magnus",
+            "Harikrishna Pentala",
+            "Grandelius Nils",
+            "Tari Aryan",
+            "Duda Jan Krzysztof",
+            "Vachier Lagrave Maxime",
+            "Wojtaszek Radoslaw",
+            "Anton Guijarro David",
+            "Donchenko Alexander"
         ]
     }
 ]
