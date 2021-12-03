@@ -1,6 +1,6 @@
 
 "A chess player."
-type Player {
+type Player @key(fields: "name") {
     "The name of the chess player"
     name: String!
     "The year the player was born"
@@ -14,7 +14,7 @@ type Player {
     "A short biography of the player"
     biography: String
 }
-
+s
 type Query {
     "Get a list of players"
     players: [Player!]!

@@ -1,6 +1,6 @@
 
-  "A chess game between two chess players"
-  type Game {
+"A chess game between two chess players"
+type Game @key(fields: "whitePlayerName") @key(fields: "blackPlayerName") {
     "The chess player with the white pieces"
     whitePlayerName: String!
     "The chess player with the black pieces"
@@ -9,6 +9,13 @@
     date: String!
     "The result of the chess game"
     result: String! 
+}
+
+extend type Player @key(fields: "name") {
+    "The name of the chess player"
+    name: String! @external 
+    "Games by a Player"
+    games: [Game]
 }
 
 type Query {
