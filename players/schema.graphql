@@ -14,7 +14,7 @@ type Player @key(fields: "name") {
     "A short biography of the player"
     biography: String
 }
-s
+
 type Query {
     "Get a list of players"
     players: [Player!]!

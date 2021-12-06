@@ -1,16 +1,24 @@
 
 "A chess tournament, played by chess players"
-type Tournament {
+type Tournament @key(fields: name) {
     "The name of the chess tournament"
     name: String!
     "The number of players in the chess tournament"
     numberOfPlayers: Int!
     "The number of games in the chess tournament"
     numberOfGames: Int!
-    "The winner of the chesss tournament"
-    winnerName: String!
+    winnerName: String! @deprecated(reason: "Use championName for all new clients.")
+    "The champion of the chesss tournament"
+    championName: String! 
     "The players in the chess tournament"
     players: [String!]!
+}
+
+extend type Player @key(fields: "name") {
+    "The name of the chess player"
+    name: String! @external 
+    "Tournaments by a Player"
+    tournaments: [Tournament]
 }
 
 type Query {

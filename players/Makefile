@@ -8,6 +8,6 @@ deploy:
 	gcloud app deploy
 
 check:
-	rover graph check Elite-Chess-Demo \
+	rover subgraph check Elite-Chess-Demo \
 	--schema=schema.graphql \
-	--validation-period=2w
+	--name=players
